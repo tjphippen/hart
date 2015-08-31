@@ -1,6 +1,6 @@
 {
     "name": "tjphippen/hart",
-    "description": "Hart Software Credit Wrapper",
+    "description": "Hart Credit Reports for Laravel 5",
     "keywords": ["hart", "credit", "score", "credit reports"],
     "homepage": "https://github.com/tjphippen/hart",
     "license": "MIT",
